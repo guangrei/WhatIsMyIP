@@ -1,5 +1,5 @@
 # -*-coding:utf8;-*-
-import droid
+from qpycmd import droid
 import requests
 
 
